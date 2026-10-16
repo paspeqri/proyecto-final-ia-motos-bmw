@@ -1,0 +1,152 @@
+{
+  "fecha": "2026-10-16T11:49:27.579Z",
+  "origen": "http://127.0.0.1:5173",
+  "navegador": "Microsoft Edge",
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "total_documentos": 68,
+  "casos": [
+    {
+      "titulo": "Búsqueda de una BMW R 1250 GS",
+      "pregunta": "Busco una BMW R 1250 GS para viajar, hasta 17.000 €. ¿Qué opciones hay? Quiero saber kilómetros, ficha técnica y estado.",
+      "archivo": "01-chat-busqueda.png",
+      "respuesta": "Hay dos opciones de BMW R 1250 GS para viajar dentro de un presupuesto de hasta 17.000 €:\n\n1. BMW R 1250 GS 2019 por 15.500 € con 43.000 km, ubicada en Madrid y vendida por MotoLuxe (concesionario). Ficha técnica destacada: motor 1250 cm³, refrigeración líquida, transmisión por cardán, potencia 136 CV, consumo medio 4.7 L/100km, asiento a 85 cm. Estado excelente según el vendedor. Mantenimiento con historial BMW, última revisión a 40.000 km. Equipamiento: tres paquetes, baúl Vario, ESA, cambio Pro, crucero, calefacción de puños y defensas.\n\n2. BMW R 1250 GS 2021 por 15.750 € con 34.000 km, también en Madrid y vendida por MotoLuxe. Ficha técnica similar y destacada por motor 1250 cm³, refrigeración líquida, transmisión cardán, 136 CV, consumo medio 4.7 L/100km, asiento a 85 cm. Estado excelente según el vendedor y mantenimiento con historial sellado en BMW. Equipamiento más completo: cuatro paquetes, espejos 719, luces adaptativas, ESA, cambio Pro, crucero y calefacción de puños.\n\nAmbas incluyen documentación y garantía según el vendedor. Se recomienda confirmar disponibilidad y precio actual al vendedor.\n\nDiferencias principales entre ambas: la de 2021 es 2 años más nueva y tiene 9.000 km menos; cuesta 250 € más. Ambas en estado excelente y con mantenimiento en BMW.\n\nDocumentos consultados: MA-001 y MA-002.",
+      "fuentes": [
+        {
+          "documento_id": "MA-001",
+          "titulo": "BMW R 1250 GS · 2019 · MotoLuxe",
+          "url": "https://motoluxe.es/modelo/628",
+          "fragmento": "Registro: MA-001. BMW R 1250 GS · 2019 · MotoLuxe.\nFuente: MotoLuxe. Referencia: MOTOLUXE-10628.\nPrecio publicado: 15500 EUR. Kilómetros: 43000. Año: 2019. Cilindrada: 1250 cm³.\nUbicación: Madrid. Vendedor: MotoLuxe. Tipo: Concesionario.\nFicha técnica — Refrigeración: LÍQUIDA.\nFicha técnica — Transmisión secundaria: CARDÁN.\nFicha técnica — Freno delantero: DOBLE DISCO.\nFicha técnica — Alimentación: INYECCIÓN ELECTRONICA.\nFicha técnica — Neumático trasero: 170/60 R 17.\nFicha técnica — KM: 43.000.\nFicha técnica — Potencia: 136 CV.\nFicha técnica — Neumático delantero: 120/70 R19.\nFicha técnica — Número de cilindros: 2.\nFicha técnica — Referencia: MOTOLUXE-10628.\nFicha técnica — Consumo medio: 4.70 L / 100km.\nFicha técnica — Número de marchas: 6.\nFicha técnica — Encendido: ELECTRONICO.\nFicha técnica — Capacidad depósito: 20 L.\nFicha técnica — Año: 2019.\nFicha técnica — Distancia del suelo al asiento: 85 cm.\nFicha técnica — Freno trasero: MONODISCO 276 MM.\nFicha técnica — Relación peso/potencia: 1,8.\nFicha técnica — Peso: 249 Kg.\nFicha técnica — Plazas: 2.\nEstado: El vendedor describe un estado excelente..\nMantenimiento: Historial en BMW; declara realizada la revisión de 40.000 km..\nEquipamiento: Tres paquetes, baúl Vario, ESA, cambio Pro, crucero, calefacción de puños y defensas..\nGarantia: Incluida; la duración no está indicada, según el vendedor..\nCondiciones: Documentación a nombre del comprador y garantía incluidas, según el vendedor..\nMatricula: No consta.\nItv: No consta.\nPropietarios: No consta.\nObservaciones: Estado, mantenimiento y equipamiento declarados por el vendedor..\nFragmento original: «BMW R 1250 GS HP, en espectacular estado,». Para los datos normalizados, véanse los campos anteriores.\nConsulta: 2026-10-16. Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar.",
+          "fecha_consulta": "2026-10-16",
+          "verificacion": "Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar."
+        },
+        {
+          "documento_id": "MA-002",
+          "titulo": "BMW R 1250 GS · 2021 · MotoLuxe",
+          "url": "https://motoluxe.es/modelo/652",
+          "fragmento": "Registro: MA-002. BMW R 1250 GS · 2021 · MotoLuxe.\nFuente: MotoLuxe. Referencia: MOTOLUXE-10652.\nPrecio publicado: 15750 EUR. Kilómetros: 34000. Año: 2021. Cilindrada: 1250 cm³.\nUbicación: Madrid. Vendedor: MotoLuxe. Tipo: Concesionario.\nFicha técnica — Refrigeración: LÍQUIDA.\nFicha técnica — Transmisión secundaria: CARDÁN.\nFicha técnica — Freno delantero: DOBLE DISCO.\nFicha técnica — Alimentación: INYECCIÓN ELECTRONICA.\nFicha técnica — Neumático trasero: 170/60 R 17.\nFicha técnica — KM: 34.000.\nFicha técnica — Potencia: 136 CV.\nFicha técnica — Neumático delantero: 120/70 R19.\nFicha técnica — Número de cilindros: 2.\nFicha técnica — Referencia: MOTOLUXE-10652.\nFicha técnica — Consumo medio: 4.70 L / 100km.\nFicha técnica — Número de marchas: 6.\nFicha técnica — Encendido: ELECTRONICO.\nFicha técnica — Capacidad depósito: 20 L.\nFicha técnica — Año: 2021.\nFicha técnica — Distancia del suelo al asiento: 85 cm.\nFicha técnica — Freno trasero: MONODISCO 276 MM.\nFicha técnica — Relación peso/potencia: 1,8.\nFicha técnica — Peso: 249 Kg.\nFicha técnica — Plazas: 2.\nEstado: El vendedor describe un estado excelente..\nMantenimiento: Historial de revisiones sellado en BMW..\nEquipamiento: Cuatro paquetes, espejos 719, luces adaptativas, ESA, cambio Pro, crucero y calefacción de puños..\nGarantia: Incluida; la duración no está indicada, según el vendedor..\nCondiciones: Documentación a nombre del comprador y garantía incluidas, según el vendedor..\nMatricula: No consta.\nItv: No consta.\nPropietarios: No consta.\nObservaciones: Estado, mantenimiento y equipamiento declarados por el vendedor..\nFragmento original: «BMW R 1250 GS Triple Black en espectacular». Para los datos normalizados, véanse los campos anteriores.\nConsulta: 2026-10-16. Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar.",
+          "fecha_consulta": "2026-10-16",
+          "verificacion": "Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar."
+        }
+      ],
+      "no_consta": false,
+      "modelo_utilizado": true,
+      "comprobaciones": {
+        "respuesta_real_http": true,
+        "fuentes_coinciden_con_corpus": true,
+        "fuentes_visibles_en_png": true,
+        "pantalla_no_vacia": true
+      }
+    },
+    {
+      "titulo": "Comparación de las dos GS",
+      "pregunta": "Compara las dos R 1250 GS",
+      "archivo": "02-chat-comparacion.png",
+      "respuesta": "Las dos BMW R 1250 GS comparadas son ambas vendidas por MotoLuxe, ubicadas en Madrid y consideradas en estado excelente según el vendedor. La primera es del año 2019, con 43.000 km, precio 15.500 €. La segunda es del año 2021, con 34.000 km, precio 15.750 €. La de 2021 es 2 años más nueva, tiene 9.000 km menos y cuesta 250 € más. Ambas tienen motor de 1250 cm³, 136 CV, refrigeración líquida, transmisión por cardán, consumo medio 4.7 L/100 km, asiento a 85 cm y peso de 249 Kg. En mantenimiento, la 2019 indica historial en BMW y revisión a 40.000 km, mientras que la 2021 tiene historial sellado de revisiones en BMW. Equipamiento en la 2019 incluye tres paquetes, baúl Vario, ESA, cambio Pro, crucero, calefacción de puños y defensas; la 2021 tiene cuatro paquetes, espejos 719, luces adaptativas, ESA, cambio Pro, crucero y calefacción de puños. Ambas incluyen documentación y garantía según el vendedor. Estas diferencias pueden influir en la elección según preferencias en equipamiento, edad y kilómetros. Documentos consultados: MA-001 y MA-002.",
+      "fuentes": [
+        {
+          "documento_id": "MA-001",
+          "titulo": "BMW R 1250 GS · 2019 · MotoLuxe",
+          "url": "https://motoluxe.es/modelo/628",
+          "fragmento": "Registro: MA-001. BMW R 1250 GS · 2019 · MotoLuxe.\nFuente: MotoLuxe. Referencia: MOTOLUXE-10628.\nPrecio publicado: 15500 EUR. Kilómetros: 43000. Año: 2019. Cilindrada: 1250 cm³.\nUbicación: Madrid. Vendedor: MotoLuxe. Tipo: Concesionario.\nFicha técnica — Refrigeración: LÍQUIDA.\nFicha técnica — Transmisión secundaria: CARDÁN.\nFicha técnica — Freno delantero: DOBLE DISCO.\nFicha técnica — Alimentación: INYECCIÓN ELECTRONICA.\nFicha técnica — Neumático trasero: 170/60 R 17.\nFicha técnica — KM: 43.000.\nFicha técnica — Potencia: 136 CV.\nFicha técnica — Neumático delantero: 120/70 R19.\nFicha técnica — Número de cilindros: 2.\nFicha técnica — Referencia: MOTOLUXE-10628.\nFicha técnica — Consumo medio: 4.70 L / 100km.\nFicha técnica — Número de marchas: 6.\nFicha técnica — Encendido: ELECTRONICO.\nFicha técnica — Capacidad depósito: 20 L.\nFicha técnica — Año: 2019.\nFicha técnica — Distancia del suelo al asiento: 85 cm.\nFicha técnica — Freno trasero: MONODISCO 276 MM.\nFicha técnica — Relación peso/potencia: 1,8.\nFicha técnica — Peso: 249 Kg.\nFicha técnica — Plazas: 2.\nEstado: El vendedor describe un estado excelente..\nMantenimiento: Historial en BMW; declara realizada la revisión de 40.000 km..\nEquipamiento: Tres paquetes, baúl Vario, ESA, cambio Pro, crucero, calefacción de puños y defensas..\nGarantia: Incluida; la duración no está indicada, según el vendedor..\nCondiciones: Documentación a nombre del comprador y garantía incluidas, según el vendedor..\nMatricula: No consta.\nItv: No consta.\nPropietarios: No consta.\nObservaciones: Estado, mantenimiento y equipamiento declarados por el vendedor..\nFragmento original: «BMW R 1250 GS HP, en espectacular estado,». Para los datos normalizados, véanse los campos anteriores.\nConsulta: 2026-10-16. Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar.",
+          "fecha_consulta": "2026-10-16",
+          "verificacion": "Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar."
+        },
+        {
+          "documento_id": "MA-002",
+          "titulo": "BMW R 1250 GS · 2021 · MotoLuxe",
+          "url": "https://motoluxe.es/modelo/652",
+          "fragmento": "Registro: MA-002. BMW R 1250 GS · 2021 · MotoLuxe.\nFuente: MotoLuxe. Referencia: MOTOLUXE-10652.\nPrecio publicado: 15750 EUR. Kilómetros: 34000. Año: 2021. Cilindrada: 1250 cm³.\nUbicación: Madrid. Vendedor: MotoLuxe. Tipo: Concesionario.\nFicha técnica — Refrigeración: LÍQUIDA.\nFicha técnica — Transmisión secundaria: CARDÁN.\nFicha técnica — Freno delantero: DOBLE DISCO.\nFicha técnica — Alimentación: INYECCIÓN ELECTRONICA.\nFicha técnica — Neumático trasero: 170/60 R 17.\nFicha técnica — KM: 34.000.\nFicha técnica — Potencia: 136 CV.\nFicha técnica — Neumático delantero: 120/70 R19.\nFicha técnica — Número de cilindros: 2.\nFicha técnica — Referencia: MOTOLUXE-10652.\nFicha técnica — Consumo medio: 4.70 L / 100km.\nFicha técnica — Número de marchas: 6.\nFicha técnica — Encendido: ELECTRONICO.\nFicha técnica — Capacidad depósito: 20 L.\nFicha técnica — Año: 2021.\nFicha técnica — Distancia del suelo al asiento: 85 cm.\nFicha técnica — Freno trasero: MONODISCO 276 MM.\nFicha técnica — Relación peso/potencia: 1,8.\nFicha técnica — Peso: 249 Kg.\nFicha técnica — Plazas: 2.\nEstado: El vendedor describe un estado excelente..\nMantenimiento: Historial de revisiones sellado en BMW..\nEquipamiento: Cuatro paquetes, espejos 719, luces adaptativas, ESA, cambio Pro, crucero y calefacción de puños..\nGarantia: Incluida; la duración no está indicada, según el vendedor..\nCondiciones: Documentación a nombre del comprador y garantía incluidas, según el vendedor..\nMatricula: No consta.\nItv: No consta.\nPropietarios: No consta.\nObservaciones: Estado, mantenimiento y equipamiento declarados por el vendedor..\nFragmento original: «BMW R 1250 GS Triple Black en espectacular». Para los datos normalizados, véanse los campos anteriores.\nConsulta: 2026-10-16. Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar.",
+          "fecha_consulta": "2026-10-16",
+          "verificacion": "Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar."
+        }
+      ],
+      "no_consta": false,
+      "modelo_utilizado": true,
+      "comprobaciones": {
+        "respuesta_real_http": true,
+        "fuentes_coinciden_con_corpus": true,
+        "fuentes_visibles_en_png": true,
+        "pantalla_no_vacia": true
+      }
+    },
+    {
+      "titulo": "Mantenimiento y equipamiento",
+      "pregunta": "¿Qué mantenimiento y equipamiento tienen?",
+      "archivo": "03-chat-mantenimiento.png",
+      "respuesta": "Las dos BMW R 1250 GS tienen mantenimiento y equipamiento según el vendedor MotoLuxe. La 2019 (MA-001) cuenta con historial de mantenimiento en BMW y la revisión hecha a los 40.000 km. Su equipamiento incluye tres paquetes, baúl Vario, ESA, cambio Pro, control de crucero, calefacción de puños y defensas. La 2021 (MA-002) posee historial de revisiones sellado en BMW y tiene un equipamiento con cuatro paquetes, espejos 719, luces adaptativas, ESA, cambio Pro, control crucero y calefacción de puños. Ambos modelos están descritos en estado excelente, con garantía e incluyen documentación a nombre del comprador, según el vendedor. Documentos usados: MA-001, MA-002.",
+      "fuentes": [
+        {
+          "documento_id": "MA-001",
+          "titulo": "BMW R 1250 GS · 2019 · MotoLuxe",
+          "url": "https://motoluxe.es/modelo/628",
+          "fragmento": "Registro: MA-001. BMW R 1250 GS · 2019 · MotoLuxe.\nFuente: MotoLuxe. Referencia: MOTOLUXE-10628.\nPrecio publicado: 15500 EUR. Kilómetros: 43000. Año: 2019. Cilindrada: 1250 cm³.\nUbicación: Madrid. Vendedor: MotoLuxe. Tipo: Concesionario.\nFicha técnica — Refrigeración: LÍQUIDA.\nFicha técnica — Transmisión secundaria: CARDÁN.\nFicha técnica — Freno delantero: DOBLE DISCO.\nFicha técnica — Alimentación: INYECCIÓN ELECTRONICA.\nFicha técnica — Neumático trasero: 170/60 R 17.\nFicha técnica — KM: 43.000.\nFicha técnica — Potencia: 136 CV.\nFicha técnica — Neumático delantero: 120/70 R19.\nFicha técnica — Número de cilindros: 2.\nFicha técnica — Referencia: MOTOLUXE-10628.\nFicha técnica — Consumo medio: 4.70 L / 100km.\nFicha técnica — Número de marchas: 6.\nFicha técnica — Encendido: ELECTRONICO.\nFicha técnica — Capacidad depósito: 20 L.\nFicha técnica — Año: 2019.\nFicha técnica — Distancia del suelo al asiento: 85 cm.\nFicha técnica — Freno trasero: MONODISCO 276 MM.\nFicha técnica — Relación peso/potencia: 1,8.\nFicha técnica — Peso: 249 Kg.\nFicha técnica — Plazas: 2.\nEstado: El vendedor describe un estado excelente..\nMantenimiento: Historial en BMW; declara realizada la revisión de 40.000 km..\nEquipamiento: Tres paquetes, baúl Vario, ESA, cambio Pro, crucero, calefacción de puños y defensas..\nGarantia: Incluida; la duración no está indicada, según el vendedor..\nCondiciones: Documentación a nombre del comprador y garantía incluidas, según el vendedor..\nMatricula: No consta.\nItv: No consta.\nPropietarios: No consta.\nObservaciones: Estado, mantenimiento y equipamiento declarados por el vendedor..\nFragmento original: «BMW R 1250 GS HP, en espectacular estado,». Para los datos normalizados, véanse los campos anteriores.\nConsulta: 2026-10-16. Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar.",
+          "fecha_consulta": "2026-10-16",
+          "verificacion": "Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar."
+        },
+        {
+          "documento_id": "MA-002",
+          "titulo": "BMW R 1250 GS · 2021 · MotoLuxe",
+          "url": "https://motoluxe.es/modelo/652",
+          "fragmento": "Registro: MA-002. BMW R 1250 GS · 2021 · MotoLuxe.\nFuente: MotoLuxe. Referencia: MOTOLUXE-10652.\nPrecio publicado: 15750 EUR. Kilómetros: 34000. Año: 2021. Cilindrada: 1250 cm³.\nUbicación: Madrid. Vendedor: MotoLuxe. Tipo: Concesionario.\nFicha técnica — Refrigeración: LÍQUIDA.\nFicha técnica — Transmisión secundaria: CARDÁN.\nFicha técnica — Freno delantero: DOBLE DISCO.\nFicha técnica — Alimentación: INYECCIÓN ELECTRONICA.\nFicha técnica — Neumático trasero: 170/60 R 17.\nFicha técnica — KM: 34.000.\nFicha técnica — Potencia: 136 CV.\nFicha técnica — Neumático delantero: 120/70 R19.\nFicha técnica — Número de cilindros: 2.\nFicha técnica — Referencia: MOTOLUXE-10652.\nFicha técnica — Consumo medio: 4.70 L / 100km.\nFicha técnica — Número de marchas: 6.\nFicha técnica — Encendido: ELECTRONICO.\nFicha técnica — Capacidad depósito: 20 L.\nFicha técnica — Año: 2021.\nFicha técnica — Distancia del suelo al asiento: 85 cm.\nFicha técnica — Freno trasero: MONODISCO 276 MM.\nFicha técnica — Relación peso/potencia: 1,8.\nFicha técnica — Peso: 249 Kg.\nFicha técnica — Plazas: 2.\nEstado: El vendedor describe un estado excelente..\nMantenimiento: Historial de revisiones sellado en BMW..\nEquipamiento: Cuatro paquetes, espejos 719, luces adaptativas, ESA, cambio Pro, crucero y calefacción de puños..\nGarantia: Incluida; la duración no está indicada, según el vendedor..\nCondiciones: Documentación a nombre del comprador y garantía incluidas, según el vendedor..\nMatricula: No consta.\nItv: No consta.\nPropietarios: No consta.\nObservaciones: Estado, mantenimiento y equipamiento declarados por el vendedor..\nFragmento original: «BMW R 1250 GS Triple Black en espectacular». Para los datos normalizados, véanse los campos anteriores.\nConsulta: 2026-10-16. Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar.",
+          "fecha_consulta": "2026-10-16",
+          "verificacion": "Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar."
+        }
+      ],
+      "no_consta": false,
+      "modelo_utilizado": true,
+      "comprobaciones": {
+        "respuesta_real_http": true,
+        "fuentes_coinciden_con_corpus": true,
+        "fuentes_visibles_en_png": true,
+        "pantalla_no_vacia": true
+      }
+    },
+    {
+      "titulo": "La matrícula no consta",
+      "pregunta": "¿Me puedes dar la matrícula de esas dos BMW?",
+      "archivo": "04-chat-no-consta.png",
+      "respuesta": "La matrícula no consta en los datos disponibles.",
+      "fuentes": [
+        {
+          "documento_id": "MA-001",
+          "titulo": "BMW R 1250 GS · 2019 · MotoLuxe",
+          "url": "https://motoluxe.es/modelo/628",
+          "fragmento": "Registro: MA-001. BMW R 1250 GS · 2019 · MotoLuxe.\nFuente: MotoLuxe. Referencia: MOTOLUXE-10628.\nPrecio publicado: 15500 EUR. Kilómetros: 43000. Año: 2019. Cilindrada: 1250 cm³.\nUbicación: Madrid. Vendedor: MotoLuxe. Tipo: Concesionario.\nFicha técnica — Refrigeración: LÍQUIDA.\nFicha técnica — Transmisión secundaria: CARDÁN.\nFicha técnica — Freno delantero: DOBLE DISCO.\nFicha técnica — Alimentación: INYECCIÓN ELECTRONICA.\nFicha técnica — Neumático trasero: 170/60 R 17.\nFicha técnica — KM: 43.000.\nFicha técnica — Potencia: 136 CV.\nFicha técnica — Neumático delantero: 120/70 R19.\nFicha técnica — Número de cilindros: 2.\nFicha técnica — Referencia: MOTOLUXE-10628.\nFicha técnica — Consumo medio: 4.70 L / 100km.\nFicha técnica — Número de marchas: 6.\nFicha técnica — Encendido: ELECTRONICO.\nFicha técnica — Capacidad depósito: 20 L.\nFicha técnica — Año: 2019.\nFicha técnica — Distancia del suelo al asiento: 85 cm.\nFicha técnica — Freno trasero: MONODISCO 276 MM.\nFicha técnica — Relación peso/potencia: 1,8.\nFicha técnica — Peso: 249 Kg.\nFicha técnica — Plazas: 2.\nEstado: El vendedor describe un estado excelente..\nMantenimiento: Historial en BMW; declara realizada la revisión de 40.000 km..\nEquipamiento: Tres paquetes, baúl Vario, ESA, cambio Pro, crucero, calefacción de puños y defensas..\nGarantia: Incluida; la duración no está indicada, según el vendedor..\nCondiciones: Documentación a nombre del comprador y garantía incluidas, según el vendedor..\nMatricula: No consta.\nItv: No consta.\nPropietarios: No consta.\nObservaciones: Estado, mantenimiento y equipamiento declarados por el vendedor..\nFragmento original: «BMW R 1250 GS HP, en espectacular estado,». Para los datos normalizados, véanse los campos anteriores.\nConsulta: 2026-10-16. Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar.",
+          "fecha_consulta": "2026-10-16",
+          "verificacion": "Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar."
+        },
+        {
+          "documento_id": "MA-002",
+          "titulo": "BMW R 1250 GS · 2021 · MotoLuxe",
+          "url": "https://motoluxe.es/modelo/652",
+          "fragmento": "Registro: MA-002. BMW R 1250 GS · 2021 · MotoLuxe.\nFuente: MotoLuxe. Referencia: MOTOLUXE-10652.\nPrecio publicado: 15750 EUR. Kilómetros: 34000. Año: 2021. Cilindrada: 1250 cm³.\nUbicación: Madrid. Vendedor: MotoLuxe. Tipo: Concesionario.\nFicha técnica — Refrigeración: LÍQUIDA.\nFicha técnica — Transmisión secundaria: CARDÁN.\nFicha técnica — Freno delantero: DOBLE DISCO.\nFicha técnica — Alimentación: INYECCIÓN ELECTRONICA.\nFicha técnica — Neumático trasero: 170/60 R 17.\nFicha técnica — KM: 34.000.\nFicha técnica — Potencia: 136 CV.\nFicha técnica — Neumático delantero: 120/70 R19.\nFicha técnica — Número de cilindros: 2.\nFicha técnica — Referencia: MOTOLUXE-10652.\nFicha técnica — Consumo medio: 4.70 L / 100km.\nFicha técnica — Número de marchas: 6.\nFicha técnica — Encendido: ELECTRONICO.\nFicha técnica — Capacidad depósito: 20 L.\nFicha técnica — Año: 2021.\nFicha técnica — Distancia del suelo al asiento: 85 cm.\nFicha técnica — Freno trasero: MONODISCO 276 MM.\nFicha técnica — Relación peso/potencia: 1,8.\nFicha técnica — Peso: 249 Kg.\nFicha técnica — Plazas: 2.\nEstado: El vendedor describe un estado excelente..\nMantenimiento: Historial de revisiones sellado en BMW..\nEquipamiento: Cuatro paquetes, espejos 719, luces adaptativas, ESA, cambio Pro, crucero y calefacción de puños..\nGarantia: Incluida; la duración no está indicada, según el vendedor..\nCondiciones: Documentación a nombre del comprador y garantía incluidas, según el vendedor..\nMatricula: No consta.\nItv: No consta.\nPropietarios: No consta.\nObservaciones: Estado, mantenimiento y equipamiento declarados por el vendedor..\nFragmento original: «BMW R 1250 GS Triple Black en espectacular». Para los datos normalizados, véanse los campos anteriores.\nConsulta: 2026-10-16. Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar.",
+          "fecha_consulta": "2026-10-16",
+          "verificacion": "Copia local de la ficha incorporada en las maquetas; disponibilidad y precio actual sin confirmar."
+        }
+      ],
+      "no_consta": true,
+      "modelo_utilizado": false,
+      "comprobaciones": {
+        "respuesta_real_http": true,
+        "fuentes_coinciden_con_corpus": true,
+        "fuentes_visibles_en_png": true,
+        "pantalla_no_vacia": true
+      }
+    }
+  ],
+  "listado": {
+    "archivo": "05-documentos.png",
+    "total": 68,
+    "fuentes": [
+      "MotoLuxe",
+      "Wallapop",
+      "Milanuncios",
+      "Motos.net"
+    ],
+    "foto_original_visible": true
+  },
+  "errores_javascript": []
+}

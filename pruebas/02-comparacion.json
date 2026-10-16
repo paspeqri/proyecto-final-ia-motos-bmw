@@ -1,0 +1,7 @@
+{
+  "pregunta": "Compara las dos R 1250 GS",
+  "historial": [
+    {"role": "user", "content": "Busco una BMW R 1250 GS para viajar, hasta 17.000 €. Quiero saber kilómetros, ficha técnica y estado."},
+    {"role": "assistant", "content": "Las dos fichas completas son MA-001 (2019, 15.500 €, 43.000 km) y MA-002 (2021, 15.750 €, 34.000 km)."}
+  ]
+}

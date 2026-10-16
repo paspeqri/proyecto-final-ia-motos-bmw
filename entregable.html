@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MotorAtlas — Entregable</title>
+  <style>
+    @page { size: A4 portrait; margin: 14mm 13mm 13mm; }
+    * { box-sizing: border-box; }
+    html { color: #172033; background: #fff; font-family: Arial, Helvetica, sans-serif; }
+    body { margin: 0; font-size: 10pt; line-height: 1.45; }
+    h1, h2, h3, p { margin-top: 0; }
+    h1 { margin-bottom: 6mm; font-size: 34pt; line-height: 1.05; letter-spacing: -1.2pt; }
+    h2 { margin-bottom: 3mm; font-size: 21pt; line-height: 1.1; }
+    h3 { margin-bottom: 2mm; font-size: 11pt; }
+    p { margin-bottom: 3mm; }
+    .page {
+      position: relative;
+      height: 270mm;
+      overflow: hidden;
+      break-after: page;
+      page-break-after: always;
+    }
+    .page:last-child { break-after: auto; page-break-after: auto; }
+    .eyebrow {
+      margin-bottom: 7mm;
+      color: #2463c7;
+      font-size: 8pt;
+      font-weight: 700;
+      letter-spacing: 1.5pt;
+      text-transform: uppercase;
+    }
+    .cover {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 18mm 15mm;
+      color: #f4f7ff;
+      background: #111722;
+    }
+    .cover .eyebrow { color: #9bbaff; }
+    .cover .intro { max-width: 155mm; font-size: 14pt; line-height: 1.55; }
+    .cover .facts {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8mm;
+      padding-top: 8mm;
+      border-top: 1px solid #485467;
+    }
+    .cover .facts strong { display: block; margin-bottom: 2mm; color: #9bbaff; }
+    .cover .note { color: #c7d0de; font-size: 9pt; }
+    .page-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 8mm;
+      margin-bottom: 5mm;
+    }
+    .page-number { color: #65738a; font-size: 8pt; white-space: nowrap; }
+    .capture {
+      display: block;
+      width: 100%;
+      max-height: 190mm;
+      margin: 0 auto 4mm;
+      object-fit: contain;
+      object-position: top center;
+      border: 1px solid #d7deea;
+      border-radius: 2mm;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    figure { margin: 0; break-inside: avoid; page-break-inside: avoid; }
+    figcaption { color: #4b5870; font-size: 9pt; }
+    .callout {
+      margin-top: 4mm;
+      padding: 3mm 4mm;
+      border-left: 3px solid #3976de;
+      background: #f1f5fb;
+      color: #344158;
+      font-size: 8.5pt;
+    }
+    .check {
+      margin: 0 0 3mm;
+      padding: 3mm 4mm;
+      border: 1px solid #dce3ed;
+      border-radius: 2mm;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .check h3 { color: #1d4d97; }
+    .check p { margin-bottom: 1.4mm; }
+    .source { color: #344158; font-size: 8.5pt; }
+    .quote { color: #56647a; font-size: 8pt; }
+    .verified { color: #176847; font-weight: 700; }
+    .method-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 4mm; }
+    .method-card {
+      padding: 4mm;
+      border: 1px solid #dce3ed;
+      border-radius: 2mm;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .method-card h3 { color: #1d4d97; }
+    .method-card p:last-child { margin-bottom: 0; }
+    .source-path {
+      margin-top: 5mm;
+      padding: 4mm;
+      background: #f1f5fb;
+      font-size: 8.5pt;
+    }
+    code {
+      padding: .3mm 1mm;
+      color: #233553;
+      background: #e9eef6;
+      font-family: Consolas, "Courier New", monospace;
+      font-size: .92em;
+    }
+    @media screen {
+      body { width: 210mm; margin: 12mm auto; background: #e8edf4; }
+      .page { margin: 0 auto 12mm; padding: 14mm 13mm; background: #fff; box-shadow: 0 2mm 8mm #17203322; }
+      .cover { padding: 18mm 15mm; }
+    }
+    @media print {
+      .page { padding: 0; }
+      .cover { padding: 18mm 15mm; }
+    }
+  </style>
+</head>
+<body>
+  <section class="page cover">
+    <div>
+      <p class="eyebrow">Proyecto final · Asistente con fuentes</p>
+      <h1>MotorAtlas</h1>
+      <p class="intro">MotorAtlas reúne anuncios de motos BMW de segunda mano para comparar opciones sin saltar entre portales. Su chat responde con fichas y fragmentos citados, y dice «no consta» cuando los datos no aportan la respuesta.</p>
+    </div>
+    <div>
+      <div class="facts">
+        <p><strong>Qué resuelve</strong>Buscar, comparar y revisar datos clave —precio, kilómetros, ficha técnica, estado, mantenimiento y equipamiento— junto con la evidencia que los respalda.</p>
+        <p><strong>De dónde salen los datos</strong>Corpus local de demostración incluido en <code>maquetas.html</code>: 68 registros estáticos atribuidos a MotoLuxe, Wallapop, Milanuncios y Motos.net.</p>
+      </div>
+      <p class="note">No se consultaron anuncios en vivo. Las fichas, referencias y enlaces que aparecen en la maqueta son datos de demostración; precio y disponibilidad deben confirmarse con el vendedor.</p>
+    </div>
+  </section>
+
+  <section class="page">
+    <div class="page-head">
+      <div><p class="eyebrow">Captura 01 · Chat</p><h2>Búsqueda de una BMW R 1250 GS</h2></div>
+      <span class="page-number">02 / 08</span>
+    </div>
+    <figure>
+      <img class="capture" src="capturas/01-chat-busqueda.png" alt="Respuesta del chat a la búsqueda de una BMW R 1250 GS con registros MA-001 y MA-002">
+      <figcaption>Consulta de compra con presupuesto, kilómetros, ficha técnica y estado. La respuesta presenta las dos fichas que cumplen el presupuesto y muestra los registros que la respaldan.</figcaption>
+    </figure>
+    <p class="callout">Las cifras y el estado son los declarados en las fichas estáticas; no acreditan la condición actual de las motos.</p>
+  </section>
+
+  <section class="page">
+    <div class="page-head">
+      <div><p class="eyebrow">Captura 02 · Chat</p><h2>Comparación de las dos GS</h2></div>
+      <span class="page-number">03 / 08</span>
+    </div>
+    <figure>
+      <img class="capture" src="capturas/02-chat-comparacion.png" alt="Comparación de dos anuncios BMW R 1250 GS con sus fuentes">
+      <figcaption>Comparativa de año, precio, kilómetros, estado, mantenimiento y equipamiento. Las dos fichas consultadas aparecen debajo de la respuesta.</figcaption>
+    </figure>
+  </section>
+
+  <section class="page">
+    <div class="page-head">
+      <div><p class="eyebrow">Captura 03 · Chat</p><h2>Mantenimiento y equipamiento</h2></div>
+      <span class="page-number">04 / 08</span>
+    </div>
+    <figure>
+      <img class="capture" src="capturas/03-chat-mantenimiento.png" alt="Respuesta sobre mantenimiento y equipamiento con citas">
+      <figcaption>El asistente diferencia el historial de revisiones y los accesorios declarados para MA-001 y MA-002, y atribuye esos datos al vendedor.</figcaption>
+    </figure>
+  </section>
+
+  <section class="page">
+    <div class="page-head">
+      <div><p class="eyebrow">Captura 04 · Respuesta prudente</p><h2>La matrícula no consta</h2></div>
+      <span class="page-number">05 / 08</span>
+    </div>
+    <figure>
+      <img class="capture" src="capturas/04-chat-no-consta.png" alt="El chat indica que no consta la matrícula en los datos disponibles">
+      <figcaption>Ante la pregunta por la matrícula, el chat dice que no consta en los datos y no inventa un número. La respuesta se obtiene sin llamar al modelo generativo.</figcaption>
+    </figure>
+  </section>
+
+  <section class="page">
+    <div class="page-head">
+      <div><p class="eyebrow">Captura 05 · Registros</p><h2>Buscador de documentos</h2></div>
+      <span class="page-number">06 / 08</span>
+    </div>
+    <figure>
+      <img class="capture" src="capturas/05-documentos.png" alt="Listado filtrable de los 68 registros de demostración">
+      <figcaption>Listado real servido por la API: 68 registros, controles de búsqueda y procedencia, y fichas con sus datos y fotos locales cuando están disponibles.</figcaption>
+    </figure>
+  </section>
+
+  <section class="page">
+    <div class="page-head">
+      <div><p class="eyebrow">Verificación</p><h2>Cómo lo comprobé</h2></div>
+      <span class="page-number">07 / 08</span>
+    </div>
+    <p>Ejecuté las preguntas contra la API local y comprobé que cada identificador y fragmento citado existe en el corpus. Para reproducirlas, usa los JSON de <code>pruebas/</code> en el orden indicado.</p>
+    <article class="check">
+      <h3>1. «Busco una BMW R 1250 GS para viajar, hasta 17.000 €. ¿Qué opciones hay? Quiero saber kilómetros, ficha técnica y estado.»</h3>
+      <p>Respuesta: dos opciones, MA-001 (2019, 43.000 km, 15.500 €) y MA-002 (2021, 34.000 km, 15.750 €); ambas 1.250 cm³ y 136 CV, descritas como en estado excelente por el vendedor.</p>
+      <p class="source"><span class="verified">Coincide con las fuentes:</span> MA-001 y MA-002.</p>
+      <p class="quote">Fragmentos: «Precio publicado: 15500 EUR. Kilómetros: 43000. Año: 2019»; «Potencia: 136 CV»; «Estado: El vendedor describe un estado excelente».</p>
+    </article>
+    <article class="check">
+      <h3>2. «Compara las dos R 1250 GS»</h3>
+      <p>Respuesta: la de 2021 tiene 9.000 km menos, es dos años más nueva y cuesta 250 € más; las fichas también respaldan las diferencias de mantenimiento y equipamiento.</p>
+      <p class="source"><span class="verified">Coincide con las fuentes:</span> MA-001 y MA-002.</p>
+      <p class="quote">Fragmentos: MA-001 «43.000 km» y «15.500 EUR»; MA-002 «34.000 km» y «15.750 EUR»; ambas fichas incluyen campos de mantenimiento y equipamiento.</p>
+    </article>
+    <article class="check">
+      <h3>3. «¿Qué mantenimiento y equipamiento tienen?»</h3>
+      <p>Respuesta: MA-001 declara historial BMW y revisión a 40.000 km, con baúl Vario y defensas; MA-002, revisiones selladas en BMW, espejos 719 y luces adaptativas, entre otros elementos.</p>
+      <p class="source"><span class="verified">Coincide con las fuentes:</span> MA-001 y MA-002; son declaraciones del vendedor.</p>
+      <p class="quote">Fragmentos: «declara realizada la revisión de 40.000 km»; «Historial de revisiones sellado en BMW»; los campos de equipamiento enumeran los accesorios citados.</p>
+    </article>
+    <article class="check">
+      <h3>4. «¿Me puedes dar la matrícula de esas dos BMW?»</h3>
+      <p>Respuesta: «La matrícula no consta en los datos disponibles». No se genera ni se supone un número.</p>
+      <p class="source"><span class="verified">Coincide con las fuentes:</span> MA-001 y MA-002.</p>
+      <p class="quote">Fragmento en ambas fichas: «Matrícula: No consta.»</p>
+    </article>
+  </section>
+
+  <section class="page">
+    <div class="page-head">
+      <div><p class="eyebrow">Implementación y fuentes</p><h2>Cómo está hecho</h2></div>
+      <span class="page-number">08 / 08</span>
+    </div>
+    <div class="method-grid">
+      <article class="method-card">
+        <h3>Servidor y recuperación</h3>
+        <p>Servidor Python con FastAPI. El flujo RAG recupera registros pertinentes, limita la respuesta a la evidencia del corpus y valida los identificadores antes de devolver los fragmentos de fuente.</p>
+      </article>
+      <article class="method-card">
+        <h3>Interfaz</h3>
+        <p>Interfaz en Svelte con TypeScript y Vite. Incluye chat, filtros del listado y acceso a las fichas; las llamadas de datos se hacen a la API local.</p>
+      </article>
+      <article class="method-card">
+        <h3>Modelos</h3>
+        <p>Modelo de chat predeterminado: <code>gpt-4.1-mini</code>. Embeddings de documentos y preguntas: <code>text-embedding-3-small</code>. La consulta de matrícula responde «no consta» sin invocar el modelo generativo.</p>
+      </article>
+      <article class="method-card">
+        <h3>Qué significa la verificación</h3>
+        <p>Se verificó la coherencia entre la respuesta, el ID del registro y el fragmento citado en el corpus local. No se verificó que los anuncios o URLs sigan activos ni que la moto conserve esos datos.</p>
+      </article>
+    </div>
+    <div class="source-path">
+      <h3>Fuentes que puedes abrir para confirmarlo</h3>
+      <p>En la carpeta del proyecto, abre <code>datos/documentos.json</code> y busca los registros <code>MA-001</code> y <code>MA-002</code>. Revisa los campos de precio, kilómetros, ficha técnica, estado, mantenimiento, equipamiento y matrícula; para ver la entrada de origen, abre también <code>maquetas.html</code>. Los registros son datos de demostración locales: no se visitaron ni verificaron sitios externos. Las respuestas reproducibles están en <code>pruebas/01-busqueda.json</code> a <code>pruebas/04-matricula.json</code>.</p>
+    </div>
+  </section>
+</body>
+</html>

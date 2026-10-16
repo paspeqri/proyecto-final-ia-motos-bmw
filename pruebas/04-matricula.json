@@ -1,0 +1,7 @@
+{
+  "pregunta": "¿Me puedes dar la matrícula de esas dos BMW?",
+  "historial": [
+    {"role": "user", "content": "Busco una BMW R 1250 GS hasta 17.000 €. Quiero ficha técnica."},
+    {"role": "assistant", "content": "Las dos fichas completas son MA-001 y MA-002."}
+  ]
+}

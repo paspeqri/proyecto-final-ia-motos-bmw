@@ -1,0 +1,9 @@
+{
+  "pregunta": "¿Qué mantenimiento y equipamiento tienen?",
+  "historial": [
+    {"role": "user", "content": "Busco una BMW R 1250 GS para viajar, hasta 17.000 €. Quiero ficha técnica y estado."},
+    {"role": "assistant", "content": "Las dos fichas completas son MA-001 y MA-002."},
+    {"role": "user", "content": "Compara las dos R 1250 GS"},
+    {"role": "assistant", "content": "MA-002 es dos años más reciente, cuesta 250 € más y tiene 9.000 km menos que MA-001."}
+  ]
+}
